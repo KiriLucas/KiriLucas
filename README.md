@@ -7,7 +7,7 @@ All my main current Git activity is on this profile:
 </br>
 </br>
 
-Technologies and tools I use (or might know something about):
+Some of the technologies and tools I use (or am currently learning / might know something about):
 </br>
 ![Java](https://img.shields.io/badge/-Java-d15284?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-6850cc?style=flat-square&logo=javascript)
