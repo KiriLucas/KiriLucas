@@ -1,4 +1,4 @@
-<h1>Stay and while and listen...</h1>
+<h1>Stay a while and listen...</h1>
 
 I'm Lucas, but people usually call me Kiri.  I'm a fullstack developer, musician, gamer, metalhead and many other things I can't think of right now.
 
