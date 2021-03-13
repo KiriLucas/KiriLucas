@@ -18,9 +18,7 @@ Some of the technologies and tools I use (or am currently learning / might know 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-All my main current Git activity is on this profile:
-</br>
-[![Lucas Araujo](https://img.shields.io/badge/-Lucas_Araujo's_Profile-4153d9?style=flat-square&logo=github)](https://github.com/lucas-araujo-develcode)
+All my main current Git activity is on this profile: [![Lucas Araujo](https://img.shields.io/badge/-Lucas_Araujo's_Profile-4153d9?style=flat-square&logo=github)](https://github.com/lucas-araujo-develcode)
 </br>
 This is some of my activity on the other profile:
 </br>
