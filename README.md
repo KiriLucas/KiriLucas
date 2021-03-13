@@ -1,7 +1,6 @@
 <h1>Stay and while and listen...</h1>
 
 I'm Lucas, but people usually call me Kiri.  I'm a fullstack developer, musician, gamer, metalhead and many other things I can't think of right now.
-
 All my main current Git activity is on this profile:
 </br>
 [![Lucas Araujo](https://img.shields.io/badge/-Lucas_Araujo's_Profile-4153d9?style=flat-square&logo=github)](https://github.com/lucas-araujo-develcode)
