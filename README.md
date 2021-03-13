@@ -22,3 +22,8 @@ Some of the technologies and tools I use (or am currently learning / might know 
 ![Docker](https://img.shields.io/badge/-Docker-white?style=flat-square&logo=docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas-araujo-develcode&count_private=true&show_icons=true&theme=dark)
+</br>
+</br>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KiriLucas)
