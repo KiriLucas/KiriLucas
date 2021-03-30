@@ -9,7 +9,6 @@ Some of the technologies and tools I use (or am currently learning / might know 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-052e19?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-162c30?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-c77620?style=flat-square&logo=react)
-</br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
