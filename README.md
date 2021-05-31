@@ -1,6 +1,6 @@
 <h1>Stay a while and listen...</h1>
 
-I'm Lucas, but people usually call me Kiri.  I'm a fullstack developer, musician, gamer, metalhead and many other things I can't think of right now.
+I'm Lucas, but people usually call me Kiri.  I'm a fullstack developer, musician, gamer, metalhead and many other not so relevant things.
 
 Some of the technologies and tools I use (or am currently learning / might know something about):
 </br>
