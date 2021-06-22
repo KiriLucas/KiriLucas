@@ -10,10 +10,12 @@ Some of the technologies and tools I work (or have worked) with:
 ![Nodejs](https://img.shields.io/badge/-Nodejs-181717?style=round-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-181717?style=round-square&logo=Python)
 <br/>
-![ReactJS](https://img.shields.io/badge/-React-181717?style=round-square&logo=react)
-![NestJS](https://img.shields.io/badge/-NestJS-181717?style=round-square&logo=nestjs)
 ![CSS3](https://img.shields.io/badge/-CSS3-181717?style=round-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-181717?style=round-square&logo=bootstrap)
+![ReactJS](https://img.shields.io/badge/-React-181717?style=round-square&logo=react)
+![Django](https://img.shields.io/badge/-Django-181717?style=round-square&logo=django)
+![Spring](https://img.shields.io/badge/-Spring-181717?style=round-square&logo=springboot)
+![NestJS](https://img.shields.io/badge/-NestJS-181717?style=round-square&logo=nestjs)
 </br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-181717?style=round-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-181717?style=round-square&logo=mysql)
