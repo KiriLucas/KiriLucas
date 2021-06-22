@@ -6,7 +6,7 @@ Some of the technologies and tools I work (or have worked) with:
 </br>
 ![Java](https://img.shields.io/badge/-Java-d15284?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-6850cc?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-ffce1f?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3263a8?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-052e19?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-162c30?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-c77620?style=flat-square&logo=react)
