@@ -26,7 +26,7 @@ Some of the technologies and tools I work (or have worked) with:
 </br>
 </br>
 
-<i>I'm currently working on my own tabletop rpg tool/game, check it out: https://github.com/KiriLucas/tabletop-rpg-tool</i>
+<i>I'm currently working on my own tabletop rpg tool/game, check it out: <a href="https://github.com/KiriLucas/tabletop-rpg-tool"><b>tabletop-rpg-tool</b></i>
 </br>
 </br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KiriLucas)
